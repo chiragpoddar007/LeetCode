@@ -88,3 +88,15 @@ If you find this repository helpful, consider giving it a ⭐.
 
 Happy Coding! 🚀
 ```
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/chiragpoddar007/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/chiragpoddar007/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
